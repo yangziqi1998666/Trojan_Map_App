@@ -1,0 +1,3 @@
+/Users/ziqiyang/EE538/final-project-yangziqi1998666/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ziqiyang/EE538/final-project-yangziqi1998666/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ziqiyang/EE538/final-project-yangziqi1998666/cmake-build-debug/CMakeFiles/final_project_yangziqi1998666.dir
